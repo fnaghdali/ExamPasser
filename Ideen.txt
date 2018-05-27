@@ -1,0 +1,2 @@
+-> Wenn das nächste Level erreicht wird, wird kurz die aktuelle Fitnessstufe angezeigt und es erfolgt eine Animation,
+z.B. das Gehirn oder die Rakete.
